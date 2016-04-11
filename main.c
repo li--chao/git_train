@@ -8,5 +8,7 @@ int main(const int argc, const char** argv)
     printf("b = %d\n", b);
     int c = 10;
     printf("c = %d\n", c);
+    int d = 10;
+    printf("d = %d\n", d);
     return 0;
 }
