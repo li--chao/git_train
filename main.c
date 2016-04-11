@@ -10,5 +10,7 @@ int main(const int argc, const char** argv)
     printf("c = %d\n", c);
     int d = 10;
     printf("d = %d\n", d);
+    int e = 10;
+    printf("e = %d\n", e);
     return 0;
 }
