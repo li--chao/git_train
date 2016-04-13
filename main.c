@@ -14,5 +14,6 @@ int main(const int argc, const char** argv)
     printf("e = %d\n", e);
 
     printf("correct code\n");
+    printf("correct code\n");
     return 0;
 }
