@@ -15,5 +15,6 @@ int main(const int argc, const char** argv)
 
     printf("correct code\n");
     printf("master commit\n");
+    printf("will check to master\n");
     return 0;
 }
