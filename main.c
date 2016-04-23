@@ -18,5 +18,6 @@ int main(const int argc, const char** argv)
     printf("will check to master\n");
     printf("second version\n");
     printf("second version\n")
+    printf("second version\n")
     return 0;
 }
